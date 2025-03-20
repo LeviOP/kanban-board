@@ -5,8 +5,6 @@
 
 A browser kanban board.
 
-[Walkthrough video](https://www.youtube.com/watch?v=ejcFpYKsrIg)
-
 ## Table of Contents
 
 - [Installation](#installation)
